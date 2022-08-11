@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 1688,
+    "articles": [
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Mat Smith",
+    "title": "The Morning After: Kim Kardashian is the face of Beats’ skin-colored earbuds",
+    "description": "Kim Kardashian has teamed up with Apple on a custom version of the Beats Fit Pro. The new Beats x Kim collab is available in a trio of skin colors, which are meant to either \"blend in or stand out,\" according to Kardashian. They are still just your standard B…",
+    "url": "https://www.engadget.com/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/42f12f10-14fc-11ed-9deb-223f6720bcd5",
+    "publishedAt": "2022-08-10T11:15:18Z",
+    "content": "Kim Kardashian has teamed up with Apple on a custom version of the Beats Fit Pro. The new Beats x Kim collab is available in a trio of skin colors, which are meant to either \"blend in or stand out,\" … [+3061 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Reece Rogers",
+    "title": "How to Play Netflix Games like Into the Breach and Krispee Street",
+    "description": "The streaming giant offers free mobile games to all subscribers. Here's how to find them—and what you should play first.",
+    "url": "https://www.wired.com/story/how-to-play-netflix-games/",
+    "urlToImage": "https://media.wired.com/photos/62f3f15e62a028800b41ce23/191:100/w_1280,c_limit/Into-The-Breach-How-To-Play-Netflix-Games-Gear.jpg",
+    "publishedAt": "2022-08-10T18:03:55Z",
+    "content": "Do you subscribe to Netflix and own a smartphone? The streaming company offers a small selection of mobile games to all subscribers at no additional cost, but you essentially have to complete a side … [+2676 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Richard Lawler",
+    "title": "Apple won’t even tell Ben Stiller how many of you are watching Severance",
+    "description": "According to Ben Stiller, Apple isn’t interested in sharing detailed numbers about how many people watch Severance, just vague charts that sound like its M1 Pro and M2 performance graphs.",
+    "url": "https://www.theverge.com/23298275/apple-severance-ben-stiller-ratings-viewers-emmys",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/Y0JIVQ59ZW3aCUNGhWgLn7E23II=/0x430:6000x3571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23236106/Severance_Photo_010101.jpg",
+    "publishedAt": "2022-08-10T00:17:43Z",
+    "content": "Apple\r\n\n \n\n There’s no doubt that Severance is a hit — the show’s first season made our best entertainment of 2022 list even as it “paints the darkest possible portrait of how megacorporations think … [+1834 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Andrew Cunningham",
+    "title": "Microsoft open-sources its cute 3D emoji, albeit without Clippy",
+    "description": "Designs will be useful for incorporating emoji into apps, art projects, and more.",
+    "url": "https://arstechnica.com/gadgets/2022/08/microsoft-open-sources-its-cute-3d-emoji-albeit-without-clippy/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/img_microsoft_fluent_emoji_github_wide-760x380.jpg",
+    "publishedAt": "2022-08-10T16:00:43Z",
+    "content": "1 with 1 posters participating\r\nAs part of its Windows 11 design push, Microsoft also published fun redesigns for all of its emoji characters that added more character and texture than the older Wind… [+2036 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters Editorial",
+    "title": "Foxconn feels sting of slowing smartphone sales - Reuters.com",
+    "description": "Apple iPhone-assembler Foxconn gave a cautious outlook for the current quarter after posting results that exceeded expectations, citing slowing smartphone demand after a pandemic-fueled boom. Francis Maguire reports.",
+    "url": "https://www.reuters.com/video/watch/idOV771610082022RP1",
+    "urlToImage": "https://static.reuters.com/resources/r/?d=20220810&i=OV771610082022RP1&r=OV771610082022RP1&t=2",
+    "publishedAt": "2022-08-10T14:08:56Z",
+    "content": "Posted \r\nApple iPhone-assembler Foxconn gave a cautious outlook for the current quarter after posting results that exceeded expectations, citing slowing smartphone demand after a pandemic-fueled boom… [+25 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Apple supplier Foxconn's Q2 profit up 12% on cloud demand - Reuters",
+    "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> supplier Foxconn <a href=\"https://www.reuters.com/companies/2317.TW\" target=\"_blank\">(2317.TW)</a> reported on Wednesday a 12% jump in second-quarter net profit, beating…",
+    "url": "https://www.reuters.com/technology/apple-supplier-foxconns-q2-profit-up-nearly-12-2022-08-10/",
+    "urlToImage": "https://www.reuters.com/resizer/kcs8yAlWL4mS-lc_aH551rLSTU8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4Y4DMBNYURL7TN2AO6NIJVUWU4.jpg",
+    "publishedAt": "2022-08-10T06:27:00Z",
+    "content": "TAIPEI, Aug 10 (Reuters) - Apple Inc (AAPL.O) supplier Foxconn (2317.TW) reported on Wednesday a 12% jump in second-quarter net profit, beating market estimates, helped by strong demand for its cloud… [+904 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Explainer: How could the new U.S. corporate minimum tax affect companies? - Reuters.com",
+    "description": "The main revenue source in the U.S. Senate's newly passed tax, climate and drugs bill is a novel 15% corporate minimum tax aimed at stopping large, profitable companies from gaming the Internal Revenue Service code to slash their tax bills to zero.",
+    "url": "https://www.reuters.com/markets/us/how-could-new-us-corporate-minimum-tax-affect-companies-2022-08-10/",
+    "urlToImage": "https://www.reuters.com/resizer/-TqCQFAxmGNR6sG0MVXTzQC-_IY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKNFF43KHZKNBHATFMXDFJDENQ.jpg",
+    "publishedAt": "2022-08-10T15:03:00Z",
+    "content": "WASHINGTON, Aug 10 (Reuters) - The main revenue source in the U.S. Senate's newly passed tax, climate and drugs bill is a novel 15% corporate minimum tax aimed at stopping large, profitable companies… [+4077 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Breakingviews - Food delivery's next gig is software-as-a-service - Reuters.com",
+    "description": "Sugar is a quick fix to balancing salt and sour. Food delivery companies are similarly looking for ways to square their need for more customers with their investors’ need for profits. The secret ingredient could be selling their delivery technology as a servi…",
+    "url": "https://www.reuters.com/breakingviews/food-deliverys-next-gig-is-software-as-a-service-2022-08-10/",
+    "urlToImage": "https://www.reuters.com/resizer/zwwXqUwCMZoOvVO9KnBiuA8oJm0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ENKYM6CFTFLXFLG76TPE6S3RZ4.jpg",
+    "publishedAt": "2022-08-10T08:58:00Z",
+    "content": "LONDON, Aug 10 (Reuters Breakingviews) - Sugar is a quick fix to balancing salt and sour. Food delivery companies are similarly looking for ways to square their need for more customers with their inv… [+3981 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
+    "title": "1Password 8 makes managing your passwords so much easier",
+    "description": "With the release of 1Password 8, this might just be the app's biggest update since the early days of the Play Store.",
+    "url": "https://www.androidcentral.com/apps-software/1password-8-launch",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/XHFmKjLMPLVdLc2juYMeSh-1200-80.png",
+    "publishedAt": "2022-08-10T14:57:14Z",
+    "content": "<ul><li>1Password 8 has just launched on both Android and iOS.</li><li>The app has been completely redesigned from the ground up, complete with several new features.</li><li>Because of the nature of … [+2633 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "brendan.griffiths@futurenet.com (Brendan Griffiths)",
+    "title": "Samsung Galaxy Watch 5 hands-on: Should you go Pro?",
+    "description": "We've tried out the new Samsung Galaxy Watch 5 and the new Watch 5 Pro. Find out what has us excited about this year's upcoming Samsung smartwatches.",
+    "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch-5-hands-on-impressions",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/sRBZW6xSDzb7pysKj7frZe-1200-80.jpg",
+    "publishedAt": "2022-08-10T13:00:00Z",
+    "content": "A new wave of wearables is coming later this month with the Samsung Galaxy Watch 5 series, and one of them comes with an upgrade we've been craving for years in the world of flagship smartwatches — b… [+12251 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Brigid Delaney",
+    "title": "What happened after a grandma with dementia went viral: ‘I get the trolling – I didn’t enjoy it’",
+    "description": "In lockdown, a video of a Australian woman known as ‘Oma’ was watched 100m times and shown on US talkshows. Her son and director of documentary Everybody’s Oma reflects on what happened next<ul><li>Get our weekend culture and lifestyle email</li></ul>Hendrika…",
+    "url": "https://amp.theguardian.com/film/2022/aug/10/what-happened-after-a-grandma-with-dementia-went-viral-i-get-the-trolling-i-didnt-enjoy-it",
+    "urlToImage": "https://i.guim.co.uk/img/media/32afbb981b6a913adbc4f5b953ca443144e4690e/0_455_2765_1659/master/2765.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd480290885ace18387c5265e97b9baa",
+    "publishedAt": "2022-08-10T04:46:43Z",
+    "content": "Hendrika van Genderen first came to the internets attention during the early days of the pandemic, after videos of her shopping at a pretend Coles went viral. Her son Jason and his wife, Megan, along… [+5969 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Michael Rosen, Dara McAnulty, Joseph Coelho and Guardian readers",
+    "title": "Raymond Briggs remembered: ‘He made what he did look easy. Which is, of course, what geniuses do’",
+    "description": "The beloved writer and illustrator of the Snowman and Father Christmas has died. Here, leading contemporaries pay tribute• Snowman author Raymond Briggs dies aged 88• Raymond Briggs obituary• The Snowman, the Bogeyman and Father Christmas: the world of Raymon…",
+    "url": "https://amp.theguardian.com/books/2022/aug/10/raymond-briggs-remembered-he-made-what-he-did-look-easy-which-is-of-course-what-geniuses-do",
+    "urlToImage": "https://i.guim.co.uk/img/media/d5b0ed4a9ed10bb35210179a35bb49b349ec5862/958_926_2746_1648/master/2746.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03b2bfc25052e124328ba7cba0b0abaa",
+    "publishedAt": "2022-08-10T16:36:21Z",
+    "content": "Michael Rosen. Photograph: Antonio Olmos/The Observer\r\nMichael Rosen: We have been lucky to have read and watched such great work from a great artist with a great heart\r\nBritish childrens author and … [+10743 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Kuo: Apple to Increase Prices of iPhone 14 Pro Models",
+    "description": "Apple plans to increase the prices of iPhone 14 Pro models compared to iPhone 13 Pro models, according to analyst Ming-Chi Kuo.\n\n\n\n\n\nKuo did not reveal exact pricing for the iPhone 14 Pro models. However, in a tweet today, he estimated that the average sellin…",
+    "url": "https://www.macrumors.com/2022/08/10/iphone-14-pro-price-increase-kuo/",
+    "urlToImage": "https://images.macrumors.com/t/AoRylvHTJmByMe2MEL21-yYbsEw=/2531x/article-new/2022/05/iPhone-14-Pro-Lineup-Feature-Silver.jpg",
+    "publishedAt": "2022-08-10T15:22:01Z",
+    "content": "Apple plans to increase the prices of iPhone 14 Pro models compared to iPhone 13 Pro models, according to analyst Ming-Chi Kuo.\r\nKuo did not reveal exact pricing for the iPhone 14 Pro models. However… [+1223 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Mitchel Broussard",
+    "title": "Deals: Apple's 2022 iPad Air on Sale for $559 on Amazon ($40 Off)",
+    "description": "Amazon is discounting Apple's 64GB Wi-Fi iPad Air (2022) down to $559.00 in four colors, from $599.00. This deal has been applied automatically and does not require a coupon code.\n\n\n\nNote: MacRumors is an affiliate partner with Amazon. When you click a link a…",
+    "url": "https://www.macrumors.com/2022/08/10/deals-apples-2022-ipad-air/",
+    "urlToImage": "https://images.macrumors.com/t/vCzHHclDn5VjeZ4RVxd899lGF2c=/2250x/article-new/2022/04/ipad-air-yellow.jpg",
+    "publishedAt": "2022-08-10T13:51:49Z",
+    "content": "Amazon is discounting Apple's 64GB Wi-Fi iPad Air (2022) down to $559.00 in four colors, from $599.00. This deal has been applied automatically and does not require a coupon code.\r\nNote: MacRumors is… [+782 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Dan Ackerman",
+    "title": "Dell XPS 13 Plus Review: This Slim Premium Laptop Isn't Afraid to Shake Things Up - CNET",
+    "description": "The keyboard, touchpad and Function row all get unconventional makeovers in this higher-end version of one of our favorite laptops. But the battery life is lacking.",
+    "url": "https://www.cnet.com/tech/computing/dell-xps-13-plus-review-this-slim-premium-laptop-isnt-afraid-to-shake-things-up/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/4e63f996637013376259e2fa43a5a9ac64a3a729/2022/08/09/51592bbb-9de5-415f-aa24-3a199adc6fda/xps13-1.png?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-08-10T11:00:45Z",
+    "content": "When you open up the XPS 13 Plus, three things will immediately strike you as... unusual. Those design choices make the XPS 13 Plus stand out so much visually, but they also make for an unconventiona… [+11338 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Lisa Eadicicco",
+    "title": "Galaxy Watch 5: All the Notable Rumors Ahead of Samsung's Event Today - CNET",
+    "description": "Samsung's new Watch may arrive at its August Unpacked event with a fix to one major shortcoming.",
+    "url": "https://www.cnet.com/tech/mobile/galaxy-watch-5-all-the-notable-rumors-ahead-of-samsungs-event-today/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/713b1b25138905cf28bf4f4eab5d10dd7a8ffc6d/2021/08/13/c28be49b-ff93-49f6-b35f-9b96c0618946/galaxy-watch-4-body-analysis.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-08-10T12:00:14Z",
+    "content": "Samsung's Unpacked event is set for Aug. 10, and we're on the lookout for several new devices today. The event is expected to bring new versions of the company's foldable phones, the Galaxy Z Flip 4 … [+8660 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Caroline Igo",
+    "title": "5 Best Online Psychiatry Services in 2022 - CNET",
+    "description": "Seeing a psychiatrist is now easier than ever thanks to telemedicine. Here are the best online psychiatry services.",
+    "url": "https://www.cnet.com/health/mental/5-best-online-psychiatrist-services-in-2022/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/fb5e3c9f2c2d2a99f159059c56512314528fa6e1/2022/05/09/5c79564d-9085-4a96-b89c-a5b04863170b/gettyimages-1367965012.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-08-10T11:00:03Z",
+    "content": "The lack of in-person access to medical professionals at the start of the pandemic spurred some big advancements for the telehealth industry. These days, patients can receive treatment, attend follow… [+9928 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "Here's Why the iPhone Battery Status Icon in iOS 16 Is So Controversial",
+    "description": "In the latest iOS 16 beta, Apple has updated the status bar battery icon on iPhones with Face ID to display the exact percentage remaining rather than just a visual representation of battery level, and while the change has been largely welcomed, some users ar…",
+    "url": "https://www.macrumors.com/2022/08/10/ios-16-battery-status-controversy/",
+    "urlToImage": "https://images.macrumors.com/t/dP8JiNulDrbPOtuTr16-WqDf6bU=/3840x/article-new/2022/08/iOS-16-battery-percentage.jpg",
+    "publishedAt": "2022-08-10T11:34:52Z",
+    "content": "In the latest iOS 16 beta, Apple has updated the status bar battery icon on iPhones with Face ID to display the exact percentage remaining rather than just a visual representation of battery level, a… [+1987 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Sami Fathi",
+    "title": "Analysis Suggests Instagram Tracks User Web Activity Through In-App Browser",
+    "description": "A new analysis of the Instagram app has suggested that every time a user clicks a link within the app, Instagram is capable of monitoring all of their interactions, text selections, and even text input, such as passwords and private credit card details within…",
+    "url": "https://www.macrumors.com/2022/08/10/instagram-tracking-users-in-app-browser/",
+    "urlToImage": "https://images.macrumors.com/t/4f7q_1wFXgE7og9et0c2PDsOCSk=/2250x/article-new/2021/03/Instagram-Feature-1.jpg",
+    "publishedAt": "2022-08-10T18:58:29Z",
+    "content": "A new analysis of the Instagram app has suggested that every time a user clicks a link within the app, Instagram is capable of monitoring all of their interactions, text selections, and even text inp… [+2608 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "iPhone 14 Pro Predicted to Start With Increased 256GB Storage Alongside Rumored Price Increase",
+    "description": "Earlier today, analyst Ming-Chi Kuo claimed iPhone 14 Pro models will be more expensive than iPhone 13 Pro models. Kuo did not reveal exact pricing, but he said that the average selling price of all four iPhone 14 models will increase by about 15% overall.\n\n\n…",
+    "url": "https://www.macrumors.com/2022/08/10/iphone-14-pro-256gb-trendforce/",
+    "urlToImage": "https://images.macrumors.com/t/4JIMsaEWv4GNkE-hwTjxbpkG8-A=/4096x/article-new/2022/05/iPhone-14-Pro-Purple-Rear-Flat-MacRumors-Exclusive.jpg",
+    "publishedAt": "2022-08-10T18:14:34Z",
+    "content": "Earlier today, analyst Ming-Chi Kuo claimed iPhone 14 Pro models will be more expensive than iPhone 13 Pro models. Kuo did not reveal exact pricing, but he said that the average selling price of all … [+1593 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "jerb@insider.com (Jordan Parker Erb)",
+    "title": "Google just put Apple on blast over its messaging: 'It's time for Apple to fix texting.'",
+    "description": "Google calls on Apple to \"fix texting,\" Elon Musk sells $6.9 billion of Tesla shares, and we outline the companies Amazon could acquire next.",
+    "url": "https://www.businessinsider.com/google-apple-debate-messaging-time-for-apple-to-fix-texting-2022-8",
+    "urlToImage": "https://i.insider.com/62f2e653cc15bf00182faf85?width=1200&format=jpeg",
+    "publishedAt": "2022-08-10T10:05:00Z",
+    "content": "iPhone owners have long blamed Android owners for difficulties when cross-device messaging. But yesterday, Google took the debate to the next level, placing the blame squarely on Apple.\r\nIf this was … [+4543 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "scohen@insider.com (Steven Cohen)",
+    "title": "'Grease' is available to stream online — here's how to watch the classic musical starring the late Olivia Newton-John",
+    "description": "\"Grease\" remains a popular movie musical nearly 45 years after its original release. You can stream it on Paramount Plus.",
+    "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-grease",
+    "urlToImage": "https://i.insider.com/62f3fcf55b790400198adfa3?width=1200&format=jpeg",
+    "publishedAt": "2022-08-10T19:09:29Z",
+    "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.\r\nWith its legendary soundtrack and iconic performances, \"Grease\" remains a popular movie musical nearly 45 years … [+5174 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Entrepreneur"
+    },
+    "author": "Entrepreneur Store",
+    "title": "Simplify Your Multitasking with a Special Deal on an Apple Magic Trackpad",
+    "description": "It's wireless, portable, and rechargeable, with a full range of multi-touch gestures and Force Touch technology.",
+    "url": "https://www.entrepreneur.com/article/432773",
+    "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1659638774-Ent-AppleMagicTrackpad.jpeg",
+    "publishedAt": "2022-08-10T16:30:00Z",
+    "content": "While committing yourself to learning new things is certainly an important aspect of entrepreneurship, some people go beyond reading articles and taking the occasional online course. Maybe they pursu… [+1729 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "VentureBeat"
+    },
+    "author": "Sharon Goldman",
+    "title": "AI and computer vision powers growing shop-and-go platform",
+    "description": "AiFi, which is powered only by cameras and computer vision, announced today that it now boasts a total of 80 checkout-free stores worldwide.",
+    "url": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
+    "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/08/Loop-Union-City-3-min-1024x683-1.jpg?w=1200&strip=all",
+    "publishedAt": "2022-08-10T13:00:00Z",
+    "content": "Were you unable to attend Transform 2022? Check out all of the summit sessions in our on-demand library now! Watch here. \r\nAI and computer vision were not necessarily top-of-mind for Sodexo, a food a… [+6791 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Hipertextual (Redacción)",
+    "title": "El sensor de temperatura corporal del Apple Watch Series 8 ya está patentado",
+    "description": "Apple ha recibido la aprobación de una patente para un sensor de temperatura corporal de gran exactitud a pocas semanas del lanzamiento del Apple Watch Series 8 que, según rumores, tendrá esas capacidades. Apple envió la propuesta a la Oficina de Patentes y M…",
+    "url": "https://hipertextual.com/2022/08/apple-watch-series-8-sensor-temperatura-corporal-patente",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/07/Apple-Watch-Series-7.webp",
+    "publishedAt": "2022-08-10T14:10:51Z",
+    "content": "Apple ha recibido la aprobación de una patente para un sensor de temperatura corporal de gran exactitud a pocas semanas del lanzamiento del Apple Watch Series 8 que, según rumores, tendrá esas capaci… [+2544 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Luis Miranda",
+    "title": "El Galaxy Watch 5 probablemente sea la mejor alternativa al Apple Watch",
+    "description": "Samsung hizo oficial el lanzamiento de los Galaxy Watch 5 y Galaxy Watch 5 Pro, una nueva generación de relojes inteligentes que apuesta por desarrollar buenos hábitos de salud y bienestar. Los nuevos smartwatches integran una pantalla de cristal de zafiro co…",
+    "url": "https://hipertextual.com/2022/08/galaxy-watch-5-caracteristicas-precio-disponibilidad-samsung",
+    "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/08/galaxy_watch_5_portada.jpg?fit=2000%2C1125&quality=50&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T13:00:00Z",
+    "content": "Samsung hizo oficial el lanzamiento de los Galaxy Watch 5 y Galaxy Watch 5 Pro, una nueva generación de relojes inteligentes que apuesta por desarrollar buenos hábitos de salud y bienestar. Los nuevo… [+3983 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Tomás Rivero",
+    "title": "Prepara tu cartera: los iPhone 14 Pro aumentarían de precio",
+    "description": "Si planeas comprar un iPhone 14 Pro o Pro Max, será mejor que te olvides de obtenerlos al mismo precio de la generación actual. Un nuevo reporte de Ming-Chi Kuo, famoso analista del ecosistema Apple, estima que las nuevas versiones Pro sufrirán un aumento sig…",
+    "url": "https://hipertextual.com/2022/08/prepara-tu-cartera-los-iphone-14-pro-aumentarian-de-precio",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/07/iPhone-14-Pro-Purple-Side-by-Side-Black-scaled.jpg",
+    "publishedAt": "2022-08-10T17:07:38Z",
+    "content": "Si planeas comprar un iPhone 14 Pro o Pro Max, será mejor que te olvides de obtenerlos al mismo precio de la generación actual. Un nuevo reporte de Ming-Chi Kuo, famoso analista del ecosistema Apple,… [+2619 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Gabriel Erard",
+    "title": "Google Maps por fin funcionará sin conexión en smartwatches con Wear OS",
+    "description": "En las últimas horas, Samsung presentó los Galaxy Watch 5 y Galaxy Watch 5 Pro, sus nuevos smartwatches. Pero más allá de las novedades propias de los relojes inteligentes que se suman a su catálogo, también se han conocido datos interesantes con respecto a W…",
+    "url": "https://hipertextual.com/2022/08/google-maps-sin-conexion-wear-os",
+    "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/08/galaxy_watch_5_pro_00.jpg?fit=2000%2C1333&quality=50&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T19:09:00Z",
+    "content": "En las últimas horas, Samsung presentó los Galaxy Watch 5 y Galaxy Watch 5 Pro, sus nuevos smartwatches. Pero más allá de las novedades propias de los relojes inteligentes que se suman a su catálogo,… [+3043 chars]"
+    },
+    {
+    "source": {
+    "id": "time",
+    "name": "Time"
+    },
+    "author": "Naina Bajekal/Oxford, U.K.",
+    "title": "Want to Do More Good? This Movement Might Have the Answer",
+    "description": "In an interview, Oxford philosopher William MacAskill explains what effective altruism and longtermism get right about doing more good with your life.",
+    "url": "https://time.com/6204627/effective-altruism-longtermism-william-macaskill-interview/",
+    "urlToImage": "https://api.time.com/wp-content/uploads/2022/08/how-to-do-more-good.jpg?quality=85&crop=0px%2C682px%2C2400px%2C1256px&resize=1200%2C628&strip",
+    "publishedAt": "2022-08-10T11:00:47Z",
+    "content": "Thirteen years ago, William MacAskill found himself standing in the aisle of a grocery store, agonizing over which breakfast cereal to buy. If he switched to a cheaper brand for a year, could he put … [+29883 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Nathan Drescher",
+    "title": "This weird touchscreen keyboard shows Apple how it’s done",
+    "description": "This wacky keyboard has a massive built-in smart screen attached to the top of the keyboard for extra productivity. Like Apple's Touch Bar but actually useful.",
+    "url": "https://www.digitaltrends.com/computing/ficihp-k2-keyboard-display/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/08/61dj7uGdhSL._AC_SL1500_.jpg?p=1",
+    "publishedAt": "2022-08-10T15:53:49Z",
+    "content": "I normally don’t trust Amazon-only electronics brands with names made up of randomly generated characters, but the Ficihp K2 mechanical keyboard caught my eye when Gizmodo first reported on it. This … [+2293 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Atlantic"
+    },
+    "author": "Anne Applebaum",
+    "title": "The Other Ukrainian Army",
+    "description": "Imperiled by Russian invaders, private citizens are stepping forward to do what Ukraine’s government cannot.",
+    "url": "https://www.theatlantic.com/ideas/archive/2022/08/ukraine-volunteer-army-russia-odesa/671088/?utm_source=feed",
+    "urlToImage": null,
+    "publishedAt": "2022-08-10T10:45:00Z",
+    "content": "Photographs by Jedrzej NowickiHistory has turning points, moments when events shift and the future seems suddenly clear. But history also has in-between points, days and weeks when everything seems i… [+24905 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Australia Covid: Contact tracing app branded expensive 'failure'",
+    "description": "The health minister urges people to delete the contact-tracing app, which identified just two infections.",
+    "url": "https://www.bbc.co.uk/news/world-australia-62496322",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB37/production/_111972974_virusapp.jpg",
+    "publishedAt": "2022-08-10T15:24:05Z",
+    "content": "A multi-million dollar Australian app used to track Covid contacts has been decommissioned and branded \"a failure\" after identifying only two unique infections.\r\nHealth Minister Mark Butler urged peo… [+1432 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Krausefx.com"
+    },
+    "author": null,
+    "title": "Instagram can track anything you do on any website in their in-app browser",
+    "description": "Comments",
+    "url": "https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser",
+    "urlToImage": null,
+    "publishedAt": "2022-08-10T17:18:24Z",
+    "content": "The iOS Instagram and Facebook app render all third party links and ads within their app using a custom in-app browser. This causes various risks for the user, with the host app being able to track e… [+15401 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Urs Mansmann, Andrijan Möcker",
+    "title": "Günstig im Ausland surfen, chatten und telefonieren mit eSIMs fürs Smartphone",
+    "description": "Mit der eSIM buchen Sie Urlaubstarife für Internet und Telefonie einfach und günstig kurz vor Reiseantritt. Infos zu Tarifen, Bezahloptionen und Praxistipps.",
+    "url": "https://www.heise.de/tests/Guenstig-im-Ausland-surfen-chatten-und-telefonieren-mit-eSIMs-fuers-Smartphone-7152620.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/6/5/2/1/8/e198cb7effd848dbb4c49060e5fa640b30927ca072aeafd0186fa05fa0150230-10756b612a6400a7.jpeg",
+    "publishedAt": "2022-08-10T05:00:00Z",
+    "content": "Inhaltsverzeichnis\r\nMit den fest ins Mobiltelefon eingebaute Embedded-SIM (kurz eSIM) hat das nervige Organisieren von SIM-Karten für das nächste Urlaubsziel ein Ende: Vor allem in Ländern außerhalb … [+7151 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "José Adorno",
+    "title": "Samsung drops Classic watch for rugged Pro version ahead of Apple Watch Series 8 Pro",
+    "description": "During its Unpacked event, Samsung introduced the new Galaxy Watch5 and Galaxy Watch5 Pro. These new smartwatches will sure be tough competition for the upcoming Apple Watch Series 8. But, in addition to that, they also show what innovations Apple will likely…",
+    "url": "https://9to5mac.com/2022/08/10/samsung-rugged-pro-apple-watch/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/samsung-galaxy-watch5-pro-rugged-apple-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T17:39:28Z",
+    "content": "During its Unpacked event, Samsung introduced the new Galaxy Watch5 and Galaxy Watch5 Pro. These new smartwatches will sure be tough competition for the upcoming Apple Watch Series 8. But, in additio… [+2601 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "José Adorno",
+    "title": "Apple TV+ orders A24 documentary about Steve Martin’s life and career",
+    "description": "Apple TV+ will soon get a documentary about Steve Martin’s life and career as A24 will produce it alongside Morgan Neville and Caitrin Rogers’s Tremolo Productions. This will be another addition to the growing list of Apple Original documentaries.\n more…\nThe …",
+    "url": "https://9to5mac.com/2022/08/10/apple-tv-plus-steve-martin-documentary/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-TV-Plus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T13:58:51Z",
+    "content": "Apple TV+ will soon get a documentary about Steve Martin’s life and career as A24 will produce it alongside Morgan Neville and Caitrin Rogers’s Tremolo Productions. This will be another addition to t… [+1718 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "José Adorno",
+    "title": "Kuo: iPhone 14 Pro and iPhone 14 Pro Max to get more expensive",
+    "description": "iPhone 14 Pro and iPhone 14 Pro Max will likely get more expensive, according to Apple analyst Ming-Chi Kuo. While previous reports said the base model will remain at the same price point, it doesn’t seem the same will apply to the Pro iPhones.\n more…\nThe pos…",
+    "url": "https://9to5mac.com/2022/08/10/kuo-iphone-14-pro-max-more-expensive/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/iPhone-production-plans.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T15:26:36Z",
+    "content": "iPhone 14 Pro and iPhone 14 Pro Max will likely get more expensive, according to Apple analyst Ming-Chi Kuo. While previous reports said the base model will remain at the same price point, it doesn’t… [+2875 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Strong Foxconn earnings helped by iPhone 13, but still working on reducing reliance on Apple",
+    "description": "Foxconn earnings comfortably beat expectations during the second quarter of the year, coming in at NT$33.3B ($1.1B) against consensus projections of NT$30.8 ($1.02B).\nStrong demand for the iPhone 13 made a direct contribution to the company’s income, of cours…",
+    "url": "https://9to5mac.com/2022/08/10/foxconn-earnings/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/Foxconn-earnings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T11:12:20Z",
+    "content": "Foxconn earnings comfortably beat expectations during the second quarter of the year, coming in at NT$33.3B ($1.1B) against consensus projections of NT$30.8 ($1.02B).\r\nStrong demand for the iPhone 13… [+3920 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Seth Kurkowski",
+    "title": "9to5Mac Daily: August 10, 2022 – AirPods updates, more on Apple Card",
+    "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Kolide: With Kol…",
+    "url": "https://9to5mac.com/2022/08/10/9to5mac-daily-august-10-2022/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T18:13:49Z",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+952 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Poll: Do you like the way Apple brought battery percentage back to iPhone with iOS 16?",
+    "description": "iOS 16 was announced in June with multiple new features, including a new lock screen with widgets, revamped notifications, improved Focus mode, options to edit and unsend messages in iMessage, and more. This week the company released iOS 16 beta 5 to develope…",
+    "url": "https://9to5mac.com/2022/08/09/do-you-like-battery-percentage-iphone-ios-16/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/iOS-16-iPhone-battery-percentage-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T00:36:05Z",
+    "content": "iOS 16 was announced in June with multiple new features, including a new lock screen with widgets, revamped notifications, improved Focus mode, options to edit and unsend messages in iMessage, and mo… [+2649 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "José Adorno",
+    "title": "Galaxy Buds2 Pro foreshadows Hi-Fi quality coming to AirPods Pro 2",
+    "description": "Samsung just announced during its Unpacked event the new Galaxy Buds2 Pro. While you could think it’s just another wireless earbuds with long battery life and ANC, these earbuds bring, in fact, the next generation of audio quality, which will likely be availa…",
+    "url": "https://9to5mac.com/2022/08/10/galaxy-buds2-pro-airpods-hi-fi/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/galaxy-buds2-pro-airpods-pro-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T15:04:34Z",
+    "content": "Samsung just announced during its Unpacked event the new Galaxy Buds2 Pro. While you could think it’s just another wireless earbuds with long battery life and ANC, these earbuds bring, in fact, the n… [+2292 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Feature Request: Keep recent and favorite photos and video on the iPhone",
+    "description": "If there’s anything in the Photos app I’m likely to want to view on my iPhone, it’s going to be my recent and favorite photos. Yet currently, the only way I can be sure of being able to do so with or without a mobile data connection is if I keep local copies …",
+    "url": "https://9to5mac.com/2022/08/10/recent-and-favorite-photos/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/Recent-and-favorite-photos.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T14:00:29Z",
+    "content": "If there’s anything in the Photos app I’m likely to want to view on my iPhone, it’s going to be my recent and favorite photos. Yet currently, the only way I can be sure of being able to do so with or… [+4918 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Rikka Altland",
+    "title": "AirPods Pro see $69 discount to $180 in today’s best deals, iPad Air 4 $400, more",
+    "description": "Halfway through the work week, all of today’s best deals are now headlined by AirPods Pro at $180. There’s also another chance to save on iPad Air 4, as Best Buy clears out models at $400, not to mention an end of summer price cut on the HomeKit ecobee SmartT…",
+    "url": "https://9to5mac.com/2022/08/10/airpods-pro-ipad-air-4-more/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/ipad-air-4-airpods-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T15:51:17Z",
+    "content": "Halfway through the work week, all of today’s best deals are now headlined by AirPods Pro at $180. There’s also another chance to save on iPad Air 4, as Best Buy clears out models at $400, not to men… [+3526 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "NASA is sending an iPad around the Moon to help test Alexa in space",
+    "description": "NASA is about to launch its new mega moon rocket called Space Launch System. As it turns out, important cargo from Apple will be involved. SLS is sending an uncrewed spacecraft called Orion to the Moon on a lengthy mission called Artemis 1. \nThe mission’s pri…",
+    "url": "https://9to5mac.com/2022/08/10/nasa-ipad-moon/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/callisto-ipad.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T13:00:00Z",
+    "content": "NASA is about to launch its new mega moon rocket called Space Launch System. As it turns out, important cargo from Apple will be involved. SLS is sending an uncrewed spacecraft called Orion to the Mo… [+4268 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Biden signs $52B CHIPS Act, but many remain skeptical",
+    "description": "President Joe Biden signed the $52B CHIPS and Science Act yesterday, authorizing subsidies for chipmaking within the US.\nThe White House claims the act has spurred $44B worth of new chip fabrication plans, but many doubts have been expressed about the likely …",
+    "url": "https://9to5mac.com/2022/08/10/52b-chips-act/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/52B-CHIPS-Act.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-10T12:20:53Z",
+    "content": "President Joe Biden signed the $52B CHIPS and Science Act yesterday, authorizing subsidies for chipmaking within the US.\r\nThe White House claims the act has spurred $44B worth of new chip fabrication… [+4381 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Genbeta.com"
+    },
+    "author": "Antonio Vallejo",
+    "title": "Mercedes está un paso más cerca de prescindir por completo de Google en el Android de sus coches gracias a su alianza con Unity",
+    "description": "Hace unos meses supimos de la unión entre Aptoide y Mercedes, el primer paso de la firma automovilística para que sus coches no dependan de Google en cuanto a funciones de conectividad. Actualmente, Mercedes ofrece Apple CarPlay y Android Auto como opciones p…",
+    "url": "https://www.genbeta.com/actualidad/mercedes-esta-paso-cerca-prescindir-completo-google-android-sus-coches-gracias-a-su-alianza-unity",
+    "urlToImage": "https://i.blogs.es/1c231d/asset.mq6.0.20220205005203/840_560.jpeg",
+    "publishedAt": "2022-08-10T10:39:30Z",
+    "content": "Hace unos meses supimos de la unión entre Aptoide y Mercedes, el primer paso de la firma automovilística para que sus coches no dependan de Google en cuanto a funciones de conectividad. Actualmente, … [+1914 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Genbeta.com"
+    },
+    "author": "Bárbara Bécares",
+    "title": "El marketplace de NFT de GameStop vendió copias de juegos sin licencia: segunda polémica en su primer mes de vida por no moderar",
+    "description": "El marketplace de venta de NFT de GameStop ha sido utilizado para vender copias de videojuegos sin licencia. Este espacio apenas lleva un mes abierto y esta es su segunda gran polémica: no hace mucho, el marketplace tenía una versión NFT de una víctima del 11…",
+    "url": "https://www.genbeta.com/actualidad/marketplace-nft-gamestop-vendio-copias-juegos-licencia-segunda-polemica-su-primer-mes-vida-no-moderar",
+    "urlToImage": "https://i.blogs.es/7c1ceb/firefox_ylf7pfjuf3/840_560.jpg",
+    "publishedAt": "2022-08-10T09:52:19Z",
+    "content": "El marketplace de venta de NFT de GameStop ha sido utilizado para vender copias de videojuegos sin licencia. Este espacio apenas lleva un mes abierto y esta es su segunda gran polémica: no hace mucho… [+1807 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Weston Blasi",
+    "title": "Key Words: Mark Cuban says buying metaverse real estate is ‘the dumbest shit ever’",
+    "description": "Cuban loves crypto and Web3 technology, but believes buying real estate in the metaverse is a bad idea.",
+    "url": "https://www.marketwatch.com/story/mark-cuban-says-buying-metaverse-real-estate-is-the-dumbest-shit-ever-11660154906",
+    "urlToImage": "https://images.mktw.net/im-601164/social",
+    "publishedAt": "2022-08-10T18:08:00Z",
+    "content": "Billionaire entrepreneur Mark Cuban loves cryptocurrency and Web3 technology, but thinks buying digital real estate in the metaverse is not a good idea.The worst part is that people are buying real e… [+2511 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Apple TV+ now includes everyone and Jon Hamm",
+    "description": "Jon Hamm's long nightmare of not being on Apple TV+ has ended, and he will debut on the service in season three of \"The Morning Show.\"Jon Hamm joins Apple TV+ series 'The Morning Show'Apple shared an ad in January featuring Jon Hamm complaining about his lack…",
+    "url": "https://appleinsider.com/articles/22/08/10/apple-tv-now-includes-everyone-and-jon-hamm",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/49822-97628-hamm-xl.jpg",
+    "publishedAt": "2022-08-10T16:54:14Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1266 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple TV+ plans documentary about comedy star Steve Martin",
+    "description": "The writer, comedian, actor, and banjo player Steve Martin is to be the subject of a new two-part Apple TV+ documentary, now in production.Steve Martin (source: Wiki Commons)Few details are yet known about the currently untitled documentary, but The Hollywood…",
+    "url": "https://appleinsider.com/articles/22/08/10/apple-tv-plans-documentary-about-comedy-star-steve-martin",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/49818-97623-000-Lead-image-xl.jpg",
+    "publishedAt": "2022-08-10T14:26:17Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1344 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple hosts premiere event for 'Five Days' ahead of August 12 streaming",
+    "description": "Prestigious Apple TV+ drama series \"Five Days at Memorial\" has been premiered in a special event at the Directors' Guild in Los Angeles.Director, Showrunner and Executive Producer Carlton Cuse (left) and Vera FarmigaThe new eight-part drama recounts the true …",
+    "url": "https://appleinsider.com/articles/22/08/10/apple-hosts-premiere-event-for-five-days-ahead-of-august-12-streaming",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/49815-97619-000-lead-Five-Days-xl.jpg",
+    "publishedAt": "2022-08-10T11:10:51Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1002 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (AppleInsider Staff)",
+    "title": "Daily deals August 10: 12% off 14-inch MacBook Pro, $100 off 24-inch iMac, $59 1TB SATA III SSD, more",
+    "description": "Wednesday's best deals include 31% off a Blue Yeti USB microphone, $29 off a Magic Trackpad, Samsung 1TB T7 Shield SSD for $100, and much more.Best deals August 10AppleInsider checks online stores daily to uncover discounts and offers on hardware and other pr…",
+    "url": "https://appleinsider.com/articles/22/08/10/daily-deals-august-10-12-off-14-inch-macbook-pro-100-off-24-inch-imac-59-1tb-sata-iii-ssd-more",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/49816-97620-Deals-xl.jpg",
+    "publishedAt": "2022-08-10T13:18:52Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+3219 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Mike Peterson)",
+    "title": "iPhone 14 Pro models may be more expensive than iPhone 13, Kuo says",
+    "description": "Apple may increase the prices on its upcoming iPhone 14 Pro models, though it isn't clear how much more expensive they'll be, according to TF Securities analyst Ming-Chi Kuo.iPhone 14 Pro rendersIn a tweet on Wednesday, Kuo said that Foxconn would be \"one of …",
+    "url": "https://appleinsider.com/articles/22/08/10/iphone-14-pro-models-may-be-more-expensive-than-iphone-13-kuo-says",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/49820-97627-iPhone-14-Pro-Gold-xl.jpg",
+    "publishedAt": "2022-08-10T15:33:36Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1556 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "How an iPhone battery works and how to manage its health",
+    "description": "Your iPhone uses a lithium-ion battery that degrades over time, but there is little reason to worry about battery health in a new device. Here's what you need to know about your iPhone's battery.What you need to know about iPhone batteriesBatteries are not my…",
+    "url": "https://appleinsider.com/articles/22/08/10/how-an-iphone-battery-works-and-how-to-manage-its-health",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/49727-97599-iPhone-battery-xl.jpg",
+    "publishedAt": "2022-08-10T17:08:44Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+13824 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Christine McKee)",
+    "title": "Samsung Unpacked deals: get up to $300 in Samsung credit on the new Galaxy Fold, Flip, Watch 5",
+    "description": "Today's Samsung Unpacked Event was filled with product announcements and now AppleInsider readers can snag special deals when preordering the new Samsung Fold, Flip, Watch 5 — and even Buds 2 Pro.Bonus Samsung credit and freebies are available with the new Ga…",
+    "url": "https://appleinsider.com/articles/22/08/10/samsung-unpacked-deals-get-up-to-300-in-samsung-credit-on-the-new-galaxy-fold-flip-watch-5",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/49817-97622-samsung-fold-flip-deals-xl.jpg",
+    "publishedAt": "2022-08-10T16:31:27Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1198 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Christine McKee)",
+    "title": "eBay coupon: save 15% on solar generators, robot vacuums & more",
+    "description": "For a limited time only, shoppers looking to secure the best deal on a variety of tech, home and sporting good items can save an additional 15% on top of already discounted prices.Hundreds of tech and home goods are eligible for the eBay coupon.Numerous brand…",
+    "url": "https://appleinsider.com/articles/22/08/10/ebay-coupon-save-15-on-solar-generators-robot-vacuums-more",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/49821-97629-ebay-15-percent-coupon-xl.jpg",
+    "publishedAt": "2022-08-10T18:32:31Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1064 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Elespanol.com"
+    },
+    "author": "Alvarez del Vayo",
+    "title": "Samsung Galaxy Watch 5 y Watch 5 Pro: los nuevos relojes inteligentes con Wear OS 3.5 y OneUI Watch 4.5",
+    "description": "Samsung ha presentado dos nuevos smartwatches con Wear OS, el Samsung Galaxy Watch 5 y el Samsung Galaxy Watch 5 Pro.",
+    "url": "https://www.elespanol.com/elandroidelibre/moviles-android/accesorios/20220810/samsung-galaxy-watch-pro-inteligentes-wear-oneui/694430605_0.html",
+    "urlToImage": "https://s1.eestatic.com/2022/08/10/elandroidelibre/moviles-android/accesorios/694440881_226367480_600x315.jpg",
+    "publishedAt": "2022-08-10T13:04:46Z",
+    "content": "Samsung es, junto con Apple, la marca de referencia en relojes inteligentes, al menos si consideramos los que tienen un sistema operativo completo y no los más sencillos. Hoy ha anunciado sus dos nue… [+4123 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "三浦一紀",
+    "title": "AirPods Proの充電ケースがUSB-C対応になるのは2023年らしい",
+    "description": "AirPods ProのUSB-Cモデルは2023年になるとのリーク情報。AirPods Pro 2はこのままLightning継続か。",
+    "url": "https://www.gizmodo.jp/2022/08/usb-c-airpods-pro-will-be-in-2023.html",
+    "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/08/10/220810airpods-w960.jpg",
+    "publishedAt": "2022-08-10T08:00:00Z",
+    "content": "2022AppleAirPods Pro 2USB-C\r\nI predict Apple will launch USB-C-capable charging cases for all AirPods models in 2023. However, the charging case of the new AirPods Pro 2 launched in 2H22 may still su… [+168 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Erin Carson",
+    "title": "Apple TV Plus: Every New TV Show Arriving in August - CNET",
+    "description": "Jason Momoa stars in the fantasy drama See. Here's a complete list of shows coming in August.",
+    "url": "https://www.cnet.com/culture/entertainment/apple-tv-plus-new-tv-shows-coming-this-august/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/10ff5792a2af5ecf60a90221bf95dacea38c9e70/2022/06/30/dd4ddcc0-fe63-4e32-92b0-cbebb4321606/black-bird-photo-010501.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-08-10T17:02:44Z",
+    "content": "Apple TV Plus is one of the newer streaming platforms vying for your attention, and there's good reason to start watching. It's stocked with big names and some hit shows, from the first season of Sev… [+7077 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Lisa Eadicicco",
+    "title": "Now Samsung's New Foldables Are Partially Made From Recycled Fishing Nets, Too - CNET",
+    "description": "This comes after Samsung began using ocean-bound plastics in the Galaxy S22 lineup.",
+    "url": "https://www.cnet.com/tech/mobile/now-samsungs-new-foldables-are-partially-made-from-recycled-fishing-nets-too/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/39c426cb6466d32523483cc9e18a697741b47632/2022/08/09/c50bf603-388c-49c5-8ffb-fdf86ead6933/samsung-galaxy-foldable-9808.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-08-10T13:00:25Z",
+    "content": "Samsung's new Galaxy Z Flip 4 and Z Fold 4 are the first folding phones from the company to be made partially with recycled fishing nets.\r\nSamsung's efforts are part of a broader effort by several te… [+4049 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Mike Sorrentino",
+    "title": "Samsung Unpacked Starts Soon: How to Watch the Galaxy Phone Reveal Livestream - CNET",
+    "description": "We're hoping to see the rumored Galaxy Z Fold 4 and Z Flip 4, and maybe even the Galaxy Watch 5.",
+    "url": "https://www.cnet.com/tech/mobile/samsung-unpacked-starts-soon-how-to-watch-the-galaxy-phone-reveal-livestream/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/bd17d6c8ee3b022b5780d2de24641cd3308d2c12/2022/06/28/7695d3e0-0bc3-4ea5-bd89-5c5bf8464ab1/galaxy-z-series-phones-pink.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-08-10T12:48:00Z",
+    "content": "Samsung Unpacked will be livestreamed Wednesday, likely detailing the company's next line of foldable phones.\r\nSamsung is reaching its fourth generation of foldable phones, which started with the Gal… [+2102 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Mike Sorrentino",
+    "title": "Samsung Galaxy Buds 2 Pro Support Hi-Fi Audio as Long as You Pair a Galaxy Phone - CNET",
+    "description": "Samsung's new Pro wireless earbuds highlight studio sound, but claims that a Galaxy phone will be required to get the most out of them.",
+    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-buds-2-pro-support-hi-fi-audio-as-long-as-you-pair-a-galaxy-phone/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/5dc786e0417106dba9da54d5370b5dd58587f740/2022/08/09/852548c6-06ab-4381-8845-37b5402d52d0/galaxy-buds-bluebuds2.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-08-10T13:00:18Z",
+    "content": "Samsung's $229 Galaxy Buds 2 Pro feature the company's 360 audio and higher quality sound, as long as they're paired with a compatible Galaxy phone.\r\nSamsung's higher-end Galaxy headphones include fe… [+1813 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Tristan",
+    "title": "Google se lance dans un bras de fer avec Apple au sujet des RCS",
+    "description": "Apple ne veut pas entendre parler des RCS, mais de l'autre côté Google veut que cette norme arrive sur iOS. \nGoogle se lance dans un bras de fer avec Apple au sujet des RCS",
+    "url": "https://www.journaldugeek.com/2022/08/10/google-se-lance-dans-un-bras-de-fer-avec-apple-au-sujet-des-rcs/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/apple-difference-imessage-sms-mms.jpg",
+    "publishedAt": "2022-08-10T12:00:49Z",
+    "content": "Apple ne veut pas entendre parler des RCS, mais de l'autre côté Google veut que cette norme arrive sur iOS.RCS. Ces trois lettres ne vous disent probablement rien. Pourtant, vous êtes sûrement déjà e… [+2719 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Anh Phan",
+    "title": "Beats x Kim Kardashian, le partenariat qu’on n’attendait pas forcément",
+    "description": "Beats et Kim Kardashian viennent d'annoncer leur partenariat en proposant trois nouveaux coloris pour les Beats Fit Pro.\nBeats x Kim Kardashian, le partenariat qu’on n’attendait pas forcément",
+    "url": "https://www.journaldugeek.com/2022/08/10/beats-x-kim-kardashian-le-partenariat-quon-nattendait-pas-forcement/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/08/beats-x-kim-12.jpg",
+    "publishedAt": "2022-08-10T06:30:24Z",
+    "content": "Beats et Kim Kardashian viennent d'annoncer leur partenariat en proposant trois nouveaux coloris pour les Beats Fit Pro.A la surprise générale, Beats vient dannoncer son nouveau partenariat et ce nes… [+2803 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Tristan",
+    "title": "Avortement : Facebook a participé à l’enquête contre une fille de 17 ans",
+    "description": "Depuis l'historique décision de la Cour Suprême, il est interdit d'avorter dans de nombreux états américains, comme le Nebraska. \nAvortement : Facebook a participé à l’enquête contre une fille de 17 ans",
+    "url": "https://www.journaldugeek.com/2022/08/10/avortement-facebook-a-participe-a-lenquete-contre-une-fille-de-17-ans/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/01/template-jdg-2022-01-06t153735-044.jpg",
+    "publishedAt": "2022-08-10T10:01:07Z",
+    "content": "Depuis l'historique décision de la Cour Suprême, il est interdit d'avorter dans de nombreux états américains, comme le Nebraska.Depuis quelques semaines aux États-Unis, une décision historique de la … [+3172 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Anh Phan",
+    "title": "Samsung Unpacked Août 2022 : les 5 annonces qu’il ne fallait pas manquer",
+    "description": "C'était l'Unpacked d'été de Samsung et ont été officialisés les nouveaux Samsung Galaxy Z Flip4 et Z Fold4 mais aussi les nouvelles Galaxy Watch5 Series et les Galaxy Buds2 Pro.\nSamsung Unpacked Août 2022 : les 5 annonces qu’il ne fallait pas manquer",
+    "url": "https://www.journaldugeek.com/2022/08/10/samsung-unpacked-2022-les-5-annonces-quil-ne-fallait-pas-manquer/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/08/samsung-unpacked-02.jpg",
+    "publishedAt": "2022-08-10T13:00:00Z",
+    "content": "C'était l'Unpacked d'été de Samsung et ont été officialisés les nouveaux Samsung Galaxy Z Flip4 et Z Fold4 mais aussi les nouvelles Galaxy Watch5 Series et les Galaxy Buds2 Pro.Les Galaxy Note nexist… [+11944 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Theregister.com"
+    },
+    "author": "Paul Kunert",
+    "title": "Microsoft asks staff to think twice before submitting expenses",
+    "description": "Business travel, outside training, and picnic overheads all under watchful gaze of Redmond's accountants\nMicrosoft is telling staff across the entire business to cast a more watchful eye over expenses in the face of economic uncertainty.…",
+    "url": "https://www.theregister.com/2022/08/10/microsoft-business-travel/",
+    "urlToImage": "https://regmedia.co.uk/2022/02/21/shutterstock_microsoft.jpg",
+    "publishedAt": "2022-08-10T13:30:10Z",
+    "content": "Microsoft is telling staff across the entire business to cast a more watchful eye over expenses in the face of economic uncertainty.\r\nSome business travel, external training sessions, and company get… [+2241 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "La edición Nike del Apple Watch está de oferta en MediaMarkt y es un incentivo para cambiar hábitos de vida",
+    "description": "Cambiar de hábitos puede ser complicado, y engancharse a hacer deporte no es algo que ocurra de la noche a la mañana si no se ha tenido nunca especial interés. A veces hace falta algo que nos motive, y el Apple Watch y sus anillos podrían ser ese incentivo. E…",
+    "url": "https://www.applesfera.com/seleccion/edicion-nike-apple-watch-esta-oferta-mediamarkt-incentivo-para-cambiar-habitos-vida",
+    "urlToImage": "https://i.blogs.es/6924cb/apple-watch-nike-oferta/840_560.jpg",
+    "publishedAt": "2022-08-10T11:13:30Z",
+    "content": "Cambiar de hábitos puede ser complicado, y engancharse a hacer deporte no es algo que ocurra de la noche a la mañana si no se ha tenido nunca especial interés. A veces hace falta algo que nos motive,… [+1493 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "El sensor de temperatura de los Apple Watch Series 8 ya no es un rumor: es una patente",
+    "description": "A estas alturas de agosto podemos decir que puede quedar apenas un mes para que la keynote de Apple quede oficialmente anunciada. Y por lo tanto, es normal que filtraciones y rumores pasen a ser algo más tangible. Como lo es la patente que se ha descubierto y…",
+    "url": "https://www.applesfera.com/apple-watch/sensor-temperatura-apple-watch-series-8-no-rumor-patente",
+    "urlToImage": "https://i.blogs.es/0207fe/1366_2000-1/840_560.jpeg",
+    "publishedAt": "2022-08-10T15:25:31Z",
+    "content": "A estas alturas de agosto podemos decir que puede quedar apenas un mes para que la keynote de Apple quede oficialmente anunciada. Y por lo tanto, es normal que filtraciones y rumores pasen a ser algo… [+1167 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Javier Lacort",
+    "title": "Así ha caído la compra de otras empresas por parte de Apple: unos niveles inéditos en los últimos quince años",
+    "description": "Es algo que se ha ido consolidando con el paso del tiempo: Apple ha ido reduciendo su inversión en comprar otras empresas como tendencia de los últimos dos años, aproximadamente.\n<!-- BREAK 1 -->\nSi entre 2015 y 2020 promedió cerca de diez empresas compradas …",
+    "url": "https://www.applesfera.com/apple-1/asi-ha-caido-compra-otras-empresas-parte-apple-unos-niveles-ineditos-ultimos-quince-anos",
+    "urlToImage": "https://i.blogs.es/aaf22a/numero/840_560.jpeg",
+    "publishedAt": "2022-08-10T06:01:04Z",
+    "content": "Es algo que se ha ido consolidando con el paso del tiempo: Apple ha ido reduciendo su inversión en comprar otras empresas como tendencia de los últimos dos años, aproximadamente.\r\nSi entre 2015 y 202… [+2252 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "Los mejores auriculares Bluetooth de Apple tienen descuentazo de 190 euros en MediaMarkt",
+    "description": "El catálogo de auriculares de Apple no es muy extenso, lo que facilita conocer bien las características de cada modelo. Los AirPods Max son los mejores de la compañía y los primeros con diseño de diadema. Se pueden comprar de oferta con un gran descuento en M…",
+    "url": "https://www.applesfera.com/seleccion/mejores-auriculares-bluetooth-apple-tienen-descuentazo-190-euros-mediamarkt",
+    "urlToImage": "https://i.blogs.es/ced2db/airpods-max-oferta/840_560.jpg",
+    "publishedAt": "2022-08-10T06:17:40Z",
+    "content": "El catálogo de auriculares de Apple no es muy extenso, lo que facilita conocer bien las características de cada modelo. Los AirPods Max son los mejores de la compañía y los primeros con diseño de dia… [+1294 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "David Bernal Raspall",
+    "title": "Actualizar los AirPods será más fácil. iOS 16 nos da pistas de un futuro sistema de actualizaciones de firmware",
+    "description": "Los AirPods, como todos los dispositivos que usamos en nuestro día a día, pueden actualizarse. La actualización del firmware de los AirPods es, a día de hoy, un proceso un poco curioso. Curioso porque sucede sin que nos demos cuenta y no podemos solicitar act…",
+    "url": "https://www.applesfera.com/desarrollo-de-software/actualizar-airpods-sera-facil-ios-16-nos-da-pistas-futuro-sistema-actualizaciones-firmware",
+    "urlToImage": "https://i.blogs.es/dea438/hero/840_560.jpeg",
+    "publishedAt": "2022-08-10T06:57:57Z",
+    "content": "Los AirPods, como todos los dispositivos que usamos en nuestro día a día, pueden actualizarse. La actualización del firmware de los AirPods es, a día de hoy, un proceso un poco curioso. Curioso porqu… [+1908 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "El iPhone 14 Pro será (más) caro: Kuo augura una subida de precio respecto a la gama actual",
+    "description": "La semana pasada un medio asiático filtró el hipotético precio de los iPhone 14, y un servidor ya advirtió que esos 799 dólares se tenían que coger con pinzas por varios motivos. Hoy Ming-Chi Kuo ha publicado lo que él cree que va a ser una subida de precio d…",
+    "url": "https://www.applesfera.com/iphone/iphone-14-pro-sera-caro-kuo-augura-subida-precio-respecto-a-gama-actual",
+    "urlToImage": "https://i.blogs.es/8edbd8/1366_2000-2/840_560.jpeg",
+    "publishedAt": "2022-08-10T16:44:40Z",
+    "content": "La semana pasada un medio asiático filtró el hipotético precio de los iPhone 14, y un servidor ya advirtió que esos 799 dólares se tenían que coger con pinzas por varios motivos. Hoy Ming-Chi Kuo ha … [+1088 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "David Bernal Raspall",
+    "title": "Cuatro formas de llamar rápidamente desde el iPhone a nuestros contactos",
+    "description": "Hay varias formas de iniciar una llamada con una persona de manera rápida y cómoda. Diferentes recursos que pueden encajar más o menos con nuestras costumbres (quizá la de ocultar nuestro número al llamar) y, especialmente, con la situación en la que nos enco…",
+    "url": "https://www.applesfera.com/tutoriales/cuatro-formas-llamar-rapidamente-iphone-a-nuestros-contactos",
+    "urlToImage": "https://i.blogs.es/aa7e6f/hero/840_560.jpeg",
+    "publishedAt": "2022-08-10T14:01:11Z",
+    "content": "Hay varias formas de iniciar una llamada con una persona de manera rápida y cómoda. Diferentes recursos que pueden encajar más o menos con nuestras costumbres (quizá la de ocultar nuestro número al l… [+3507 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Sergio Velasquez",
+    "title": "5 Ways to Customize Your Mac's Pointer",
+    "description": "By changing these settings, you can easily customize your Mac's pointer and make it stand out.",
+    "url": "https://www.makeuseof.com/ways-to-customize-macs-pointer/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Macs-pointer-featured-image.jpg",
+    "publishedAt": "2022-08-10T12:00:14Z",
+    "content": "Believe it or not, there are many ways you can customize your Mac's cursor, also known as pointer. You can change its color, make it big if you can't find it, and even adjust your scrolling speed to … [+4293 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Andy Betts",
+    "title": "Samsung's New Foldable Phones Are Official: Here Are the Galaxy Flip4 and Galaxy Fold4",
+    "description": "The Samsung Flip4 and Fold4 have been officially unveiled. They bring a polished design, along with the same high price tags.",
+    "url": "https://www.makeuseof.com/samsungs-flip4-fold4-specs/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/galaxy-z-flip4.jpg",
+    "publishedAt": "2022-08-10T13:30:28Z",
+    "content": "After a few months of steady leaks, Samsung has finally unveiled its foldable phones for 2022, the Galaxy Z Flip4 and the Galaxy Z Fold4. The phones aren't massively different to last year's models, … [+3311 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Phandroid - News for Android"
+    },
+    "author": "Tyler Lee",
+    "title": "Samsung Galaxy Watch 5 launched with a new Pro model in tow",
+    "description": "Samsung has officially taken the wraps off its latest smartwatch, the Galaxy Watch 5, but it looks like there will also be a new Pro model launching alongside it.\nThe post Samsung Galaxy Watch 5 launched with a new Pro model in tow first appeared on Phandroid.",
+    "url": "https://phandroid.com/2022/08/10/samsung-galaxy-watch-5-launched-with-a-new-pro-model-in-tow/",
+    "urlToImage": "https://phandroid.com/wp-content/uploads/2022/08/samsung-galaxywatch-5-1-640x427.jpg",
+    "publishedAt": "2022-08-10T13:00:15Z",
+    "content": "Earlier this year, there were rumors that Samsung could ditch the Classic model in its next-gen Galaxy Watch wearable. Instead, the company could introduce a Pro version to the lineup that would use … [+2312 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Tristan Carballeda",
+    "title": "Apple : la publicité le dernier eldorado non exploré par la Pomme ?",
+    "description": "Apple pourrait faire le choix de la publicité dans les prochaines années, le tout en protégeant toujours les données de ses utilisateurs.",
+    "url": "https://www.presse-citron.net/apple-la-publicite-le-dernier-eldorado-non-explore-par-la-pomme/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/03/test-iphone-se-2022-coloris.jpg",
+    "publishedAt": "2022-08-10T09:00:51Z",
+    "content": "Depuis quelques années, Apple mise beaucoup sur ces services comme Apple Music, iCloud, Arcade ou Apple TV+. cette dernière connaît dailleurs une croissance assez impressionnante ces derniers mois. M… [+2883 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nature.com"
+    },
+    "author": "Roman J. Dial, Colin T. Maher, Rebecca E. Hewitt, Patrick F. Sullivan",
+    "title": "Sufficient conditions for rapid range expansion of a boreal conifer",
+    "description": "A boreal conifer is advancing northwards into Arctic tundra, with this treeline advance facilitated by climate warming together with winter winds, deeper snow and increased soil nutrient availability.",
+    "url": "https://www.nature.com/articles/s41586-022-05093-2",
+    "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05093-2/MediaObjects/41586_2022_5093_Fig1_HTML.png",
+    "publishedAt": "2022-08-10T00:00:00Z",
+    "content": "White and black spruce are the dominant conifers at Arctic treelines and the boreal foresttundra ecotone more generally in North America, with white spruce dominating on better drained sites. White s… [+34388 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Pitchfork"
+    },
+    "author": "Jazz Monroe",
+    "title": "Listen to Four Tet’s New Songs “Mango Feedback” and “Watersynth”",
+    "description": "The two-track single follows last month’s “Scythe Master”",
+    "url": "https://pitchfork.com/news/listen-to-four-tets-new-songs-mango-feedback-and-watersynth/",
+    "urlToImage": "https://media.pitchfork.com/photos/62f3dfc3ba98fcce594167e1/16:9/w_1280,c_limit/GettyImages-493983440.jpg",
+    "publishedAt": "2022-08-10T16:45:13Z",
+    "content": "Four Tet has shared a pair of new tracks, Mango Feedback and Watersynth. The releases follow last months drop Scythe Master and, under his KH alias, Looking at Your Pager. Listen below or click here … [+296 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "XDA Developers"
+    },
+    "author": "Nirave Gondhia",
+    "title": "Samsung Galaxy Z Fold 4 Hands-On: Thinner, lighter, stronger, faster",
+    "description": "The Samsung Galaxy Z Fold 4 is here, with a few key improvements that make it thinner, lighter, stronger and faster. Here's what we think.\nThe post Samsung Galaxy Z Fold 4 Hands-On: Thinner, lighter, stronger, faster appeared first on XDA.",
+    "url": "https://www.xda-developers.com/samsung-galaxy-z-fold-4-hands-on/",
+    "urlToImage": "https://www.xda-developers.com/files/2022/08/Samsung-Galaxy-Z-Fold-4-screen-on-hero-images-XDA-00981.jpg",
+    "publishedAt": "2022-08-10T13:00:23Z",
+    "content": "Once per decade and sometimes more we reach a new paradigm in technology that helps shift the industry forward leaps and bounds. In 2007, the original iPhone was launched shifting the industry forwar… [+18310 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Krebs on Security"
+    },
+    "author": "BrianKrebs",
+    "title": "The Security Pros and Cons of Using Email Aliases",
+    "description": "One way to tame your email inbox is to get in the habit of using unique email aliases when signing up for new accounts online. Adding a \"+\" character after the username portion of your email address -- followed by a notation specific to the site you're signin…",
+    "url": "https://krebsonsecurity.com/2022/08/the-security-pros-and-cons-of-using-email-aliases/",
+    "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2022/08/emailplus.png",
+    "publishedAt": "2022-08-10T15:10:59Z",
+    "content": "One way to tame your email inbox is to get in the habit of using unique email aliases when signing up for new accounts online. Adding a “+” character after the username portion of your email address … [+5764 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Hadrien Augusto",
+    "title": "Le créateur du col roulé de Steve Jobs est décédé (son portrait)",
+    "description": "Non, Steve Jobs ne montait pas sur scène avec un col roulé lambda pour présenter ses nouveaux produits Apple.",
+    "url": "https://www.presse-citron.net/?p=510686",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/01/steve-jobs-iphone-2G.jpg",
+    "publishedAt": "2022-08-10T15:00:36Z",
+    "content": "Le styliste japonais Issey Miyake est décédé le 5 août dernier à lâge de 84 ans, emportant avec lui une part immense de lhistoire de la mode de laprès-guerre. Il fut le premier à organiser un défilé … [+2850 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The A.V. Club"
+    },
+    "author": "Katie Chow",
+    "title": "Steve Martin says that Only Murders In The Building may be his last role",
+    "description": "Though Only Murders In The Building has shown that Steve Martin is still at the top of his game 50 years into his career, it looks like Charles-Haden Savage may be the last role he ever takes. In a new cover story for The Hollywood Reporter, the 76-year-old c…",
+    "url": "https://www.avclub.com/steve-martin-says-only-murders-may-be-his-last-role-1849395751",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/261cf4aec8d2bae1ef65a9ce2159443f.jpg",
+    "publishedAt": "2022-08-10T18:01:00Z",
+    "content": "Though Only Murders In The Building has shown that Steve Martin is still at the top of his game 50 years into his career, it looks like Charles-Haden Savage may be the last role he ever takes. In a n… [+1887 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+    "title": "Apple’s Latest iOS 16 Beta Brings Back Battery Percentages to Your Home Screen",
+    "description": "After disappearing from the platform for five years, Apple is finally bringing back the battery percentage indicator on your iPhone's home screen. The feature existed on plenty of iOS versions until it was removed during the launch of the iPhone X because the…",
+    "url": "https://hypebeast.com/2022/8/apple-ios-16-beta-5-battery-percentage-indicator",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2Fapple-ios-16-beta-5-battery-percentage-indicator-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2022-08-10T07:07:26Z",
+    "content": "After disappearing from the platform for five years, Apple is finally bringing back the battery percentage indicator on your iPhone‘s home screen. The feature existed on plenty of iOS versions until … [+1117 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Zak Khan",
+    "title": "Samsung Galaxy Buds 2 Pro vs Apple AirPods Pro: Which should you buy?",
+    "description": "Samsung and Apple's elite buds demand top-tier prices, but which are right for you? Let's compare the Galaxy Buds 2 Pro vs AirPods Pro.",
+    "url": "https://www.androidauthority.com/samsung-galaxy-buds-2-pro-vs-apple-airpods-pro-3193887/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/08/Samsung-Galaxy-Buds-2-Pro-vs-AirPods-Pro-laying-next-to-charging-case-scaled.jpg",
+    "publishedAt": "2022-08-10T13:05:07Z",
+    "content": "What happens when two walled gardens meet? The Samsung Galaxy Buds 2 Pro and Apple AirPods Pro sit at the top of their respective product families with the best features and at the highest prices. Ye… [+8569 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Andy Walker",
+    "title": "Samsung Galaxy Watch 5 and Galaxy Watch 5 Pro: Everything you need to know",
+    "description": "The Samsung Galaxy Watch 5 and Galaxy Watch 5 Pro are finally official. Here's everything you need to know about the new flagship watches.",
+    "url": "https://www.androidauthority.com/samsung-galaxy-watch-5-pro-price-specs-availability-3194583/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/08/Samsung-Galaxy-Watch-5-vs-Watch-5-Pro.jpg",
+    "publishedAt": "2022-08-10T13:00:43Z",
+    "content": "Samsungs smartwatch series for 2022 is a clear case of evolution over revolution. The Samsung Galaxy Watch 5 and Galaxy Watch 5 Pro share several similarities with the outgoing Galaxy Watch 4 line bu… [+17220 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "Chris Smith",
+    "title": "Kuo: iPhone 14 launch on schedule despite recent geopolitical tensions",
+    "description": "The iPhone 14 launch should happen in mid-September, right on schedule. We know as much from Apple’s recent earnings call, where the company did not mention any delays for the new iPhone. Apple warned buyers and investors about delays two years ago during the…",
+    "url": "https://bgr.com/tech/kuo-iphone-14-launch-on-schedule-despite-recent-geopolitical-tensions/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2021/09/apple-iphone-13-6.jpg?quality=82&strip=all",
+    "publishedAt": "2022-08-10T10:50:00Z",
+    "content": "The iPhone 14 launch should happen in mid-September, right on schedule. We know as much from Apple’s recent earnings call, where the company did not mention any delays for the new iPhone. Apple warne… [+4771 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "Chris Smith",
+    "title": "Samsung announces Galaxy Z Fold 4, Flip 4, & more – everything you need to know",
+    "description": "Samsung’s big Unpacked press event of the summer is finally here, bringing fans a variety of new devices that will be available for preorder almost immediately after the show. Samsung’s Galaxy Z Fold 4 and Galaxy Z Flip 4 foldable phones are the main attracti…",
+    "url": "https://bgr.com/tech/samsung-announces-galaxy-z-fold-4-flip-4-more-everything-you-need-to-know/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2022/08/Samsung-Galaxy-Z-Fold.jpg?quality=82&strip=all",
+    "publishedAt": "2022-08-10T12:50:00Z",
+    "content": "Samsung’s big Unpacked press event of the summer is finally here, bringing fans a variety of new devices that will be available for preorder almost immediately after the show. Samsung’s Galaxy Z Fold… [+4604 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "Connor Jewiss",
+    "title": "Patent reveals highly-accurate temperature sensor for Apple Watch ahead of expected Series 8 launch",
+    "description": "The Apple Watch Series 8 is expected to feature temperature monitoring, and a new Apple patent could reveal how it will be achieved.",
+    "url": "https://www.imore.com/health-fitness/apple-watch/patent-reveals-highly-accurate-temperature-sensor-for-apple-watch-ahead-of-expected-series-8-launch",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/qEatVVJdYJgDe2JqMZr4NU-1200-80.jpeg",
+    "publishedAt": "2022-08-10T13:27:03Z",
+    "content": "One of the most anticipated features of the Apple Watch Series 8 is the long-rumored temperature sensor. While initially tipped for the Series 7 Watch, multiple sources have now explained they expect… [+2623 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "luke.filipowicz@futurenet.com (Luke Filipowicz)",
+    "title": "Samsung's Galaxy Buds Pro 2 have already lost to AirPods Pro 2",
+    "description": "Samsung is losing the wireless earbuds battle to Apple. The newly-announced Galaxy Buds Pro 2 are just catching up to AirPods Pro, but Apple is primed to release AirPods 2 any time now.",
+    "url": "https://www.imore.com/airpods/samsungs-galaxy-buds-pro-2-have-already-lost-to-airpods-pro-2",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/GT9UtaDmQ4YKN7tPirkzSk-1200-80.jpg",
+    "publishedAt": "2022-08-10T15:19:44Z",
+    "content": "The Samsung Galaxy Unpacked event is happening today, and plently of information about Samsung's new tech is the release of the Galaxy Buds Pro 2. While the first Galaxy Buds Pro were undoubtedly a d… [+2416 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "heyimjoew@icloud.com (Joe Wituschek)",
+    "title": "Apple TV+ announces Land of Women dramedy series starring Eva Longoria",
+    "description": "Apple has announced Land of Women, a six-episode dramedy series starring Eva Longoria.",
+    "url": "https://www.imore.com/music-movies-tv/apple-tv/apple-tv-announces-land-of-women-dramedy-series-starring-eva-longoria",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/3N5xBuGYefGYGHLwYg3Tr8-1200-80.jpg",
+    "publishedAt": "2022-08-10T01:10:10Z",
+    "content": "Apple is bringing another dramatic comedy series to its streaming service.\r\nToday, the company announced that it has made a six-episode series order for Land of Women, a new dramedy series inspired b… [+1647 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "Tammy Rogers",
+    "title": "Apple Watch 7 hits lowest price ever at Amazon",
+    "description": "The 45mm variant of the Apple Watch Series 7 has dropped to its lowest price today, matching the price seen over Prime Day.",
+    "url": "https://www.imore.com/health-fitness/apple-watch/apple-watch-7-hits-lowest-price-ever-at-amazon",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/YTXWKHWRPBPiYg7hELMuq7-1200-80.jpg",
+    "publishedAt": "2022-08-10T12:15:03Z",
+    "content": "Apple Watch Series 8 may be on the way, but the Series 7 is still nothing to pass up, especially when it's now $70 off at Amazon. That's the aluminum variant in all the colors, and the best prices ca… [+1357 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "stephen.warwick@futurenet.com (Stephen Warwick)",
+    "title": "iPhone 14 Pro will be more expensive than 13 Pro, says prolific insider",
+    "description": "Apple analyst and insider Ming-Chi Kuo says the iPhone 14 Pro will be more expensive than its predecessor.",
+    "url": "https://www.imore.com/iphone/iphone-14/iphone-14-pro-will-be-more-expensive-than-13-pro-says-prolific-insider",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/eb6jW2oVkZEvS4Ms3MRdGZ-1200-80.jpg",
+    "publishedAt": "2022-08-10T15:34:34Z",
+    "content": "A top Apple insider says the iPhone 14 Pro will be more expensive than the iPhone 13, raising the average selling price of the iPhone this year. \r\nAccording to Ming-Chi Kuo, Apple's major supply part… [+1685 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "stephen.warwick@futurenet.com (Stephen Warwick)",
+    "title": "Overwhelming Apple Card success may have lead to Goldman Sachs probe",
+    "description": "A new report says that issues with how successful Apple Card was may have lead to a probe into Goldman Sachs.",
+    "url": "https://www.imore.com/apple/overwhelming-apple-card-success-may-have-lead-to-goldman-sachs-probe",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/RKRNksstJudGZcUN2zGham-1200-80.jpg",
+    "publishedAt": "2022-08-10T11:04:09Z",
+    "content": "A new report indicates that a regulatory probe into Goldman Sachs may have stemmed from the bank's inability to deal with the unexpected popularity of Apple Card. \r\nLast week the Consumer Financial P… [+1567 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "heyimjoew@icloud.com (Joe Wituschek)",
+    "title": "Apple hosts world premiere event for Five Days at Memorial ahead of Friday's debut",
+    "description": "Ahead of the series' debut on Friday, August 12, Apple has hosted the world premiere event for Five Days at Memorial in Los Angeles.",
+    "url": "https://www.imore.com/music-movies-tv/apple-tv/apple-hosts-world-premiere-event-for-five-days-at-memorial-ahead-of-fridays-debut",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/FKRf3P3nQ6QaZwqzaQQjyS-1200-80.jpg",
+    "publishedAt": "2022-08-10T01:37:29Z",
+    "content": "We're only a few days away from the premiere of Five Days at Memorial on Apple TV+.\r\nToday, in celebration of Friday's debut, Apple hosted a worldwide premiere of the series at the Directors Guild of… [+1551 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "heyimjoew@icloud.com (Joe Wituschek)",
+    "title": "Google tries shaming Apple to 'fix' testing with 'Get the Message' campaign",
+    "description": "Google has launched a new campaign called \"Get the Message\" where the company is attempting to shame Apple into adopting RCS.",
+    "url": "https://www.imore.com/iphone/google-tries-shaming-apple-to-fix-testing-with-get-the-message-campaign",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/7BoRWzBf6xeogRzFBWMLfN-1200-80.jpg",
+    "publishedAt": "2022-08-10T00:43:24Z",
+    "content": "When Google hosted Google I/O this year, a segment of the event was dedicated to the company pushing on Apple to adopt RCS, a new messaging standard that is replacing SMS and MMS across Android devic… [+1816 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "heystephbarnes@gmail.com (Stephanie A Barnes)",
+    "title": "This new iOS 16 feature will kill passwords forever, according to Apple",
+    "description": "Apple's iOS 16 is set to bring a host of new features, including passkeys, which will make your current passwords pretty much obsolete.",
+    "url": "https://www.imore.com/ios/apple-to-kill-passwords-with-new-ios-16-feature",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/tGHaMKAnieRJSF5vgDHCrH-1200-80.jpg",
+    "publishedAt": "2022-08-10T14:06:34Z",
+    "content": "Apple is ready to get rid of passwords with the introduction of passkeys. The new iOS 16 (opens in new tab) feature was first announced at this year's WWDC, and now Apple executives are sharing more … [+2200 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "bryan.wolfe@futurenet.com (Bryan M Wolfe)",
+    "title": "Apple remains in the mix for Big 10 streaming rights just as ESPN bows out",
+    "description": "According to multiple sources, the Big Ten and ESPN will no longer be media partners. What's not yet known is whether Apple will come in and secure streaming rights.",
+    "url": "https://www.imore.com/music-movies-tv/apple-remains-in-the-mix-for-big-10-streaming-rights-just-as-espn-bows-out",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/4JwyZyx6pGQWZ6JPmqaTbY-1200-80.jpeg",
+    "publishedAt": "2022-08-10T12:48:43Z",
+    "content": "Sports Business Journal said on Tuesday the Big Ten was about to deliver huge news regarding future media rights. For the first time in 40 years, ESPN isn't expected to be a network partner with the … [+2546 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "stephen.warwick@futurenet.com (Stephen Warwick)",
+    "title": "Samsung Galaxy Watch5 Pro's 80-hour battery could crush Apple Watch Series 8",
+    "description": "Samsung has today unveiled its new Galaxy Watch5 Pro and claims it has an 80-hour battery life.",
+    "url": "https://www.imore.com/health-fitness/apple-watch/samsungs-galaxy-watch5-pros-80-hour-battery-could-crush-apple-watch-series-8",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/6EdjpA7FsanemSWWvP4vNN-1200-80.jpg",
+    "publishedAt": "2022-08-10T14:48:18Z",
+    "content": "At its Unpacked event today Samsung announced its new Galaxy Watch5 Pro with a battery life that could blow anything Apple has to offer out of the water. \r\nThe company has unveiled (opens in new tab)… [+1600 chars]"
+    }
+    ]
+    }
